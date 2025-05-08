@@ -2,6 +2,8 @@
 
 A curated collection of ComfyUI workflows for a variety of tasks, including text-to-image, image-to-video, and image upscaling.
 
+<img src="https://github.com/user-attachments/assets/134f18ab-8ab0-454a-acf4-95a930f75a3b" alt="drawing" width="400"/>
+
 ## Installation
 
 1. **Clone this repository**
